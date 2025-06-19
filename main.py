@@ -45,7 +45,7 @@ def omikuji():
 
     return omikuji_list[random.randrange(10)]
 
-app=Fastapi()
+app=FastAPI()
 
 
 @app.get("/")
