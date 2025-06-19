@@ -61,10 +61,18 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>Some HTML in here</title>
+            <title>My Home Page</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Hello!!</h1>
+            <h2>I'm 23FI090</h2><br>
+            <h1>I love eating ramen so much!</h1>
+            <div class="loop_wrap">
+              <img src="C:/23fi090/images/ramen.jpg"><img src="C:/23fi090/images/ramen.jpg">
+            </div><br>
+            <h3>contact me<br>
+                23fi090@ms.dendai.ac.jp
+            </h3>
         </body>
     </html>
     """
